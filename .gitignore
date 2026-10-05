@@ -1,0 +1,36 @@
+# Archivos sensibles - NO subir a GitHub
+client_secrets.json
+token.pickle
+videos_subidos.json
+
+# Archivos de video
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.flv
+*.wmv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
